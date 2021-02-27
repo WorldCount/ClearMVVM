@@ -1,4 +1,4 @@
-﻿namespace ClearMVVM
+﻿namespace ClearMVVM.Views.Windows
 {
     public partial class MainWindow
     {
